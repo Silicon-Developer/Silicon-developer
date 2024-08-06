@@ -16,7 +16,7 @@
 
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+My+Name+is+Silicon+Developer;I+work+for+Telegram+Automatomation;I+Am+Super+Noob;I+Learn+From+Official+Document;You+can+see+the+bots+made+by+me+by+going+to+Telegram;Thanks+For+Visiting+Github;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+My+Name+is+Silicon+Developer;I+work+for+Telegram+Bot+Automatomation;I+Am+Super+Noob;I+Learn+From+Official+Document;You+can+see+the+bots+made+by+me+by+going+to+Telegram;Thanks+For+Visiting+Github;)
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
