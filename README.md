@@ -47,13 +47,16 @@ _**Wᴇ Aʀᴇ Aᴠᴀɪʟᴀʙʟᴇ Oɴ Tᴇʟᴇɢʀᴀᴍ [𝐒𝐢𝐥𝐢�
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silicon-Developer&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+# Profile Visits
+<br/>
+![Visitor Count](https://count.getloli.com/get/@Silicon-Developer?theme=booru-lewd)
+<br/>
 
 <hr/>
 
 # Tᴇʟᴇɢʀᴀᴍ
 <p align="left">
-<a href="https://telegram.me/Silicon-Developer"><img alt="Telegram" src="https://img.shields.io/badge/Silicon-Developer-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.me/Silicon_Official"><img alt="Telegram" src="https://img.shields.io/badge/Silicon-Developer-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 </div>
