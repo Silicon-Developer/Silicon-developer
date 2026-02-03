@@ -1,7 +1,7 @@
 # Welcome To Silicon-Developer's GitHub Profile 👋
 <p align="center">
   <a href="https://github.com/Silicon-Developer/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Silicon-Developer&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Silicon-Developer&font=Sans%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" />
 
 </a>
 </p>
